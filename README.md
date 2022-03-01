@@ -1,6 +1,6 @@
 ### Hi there, welcome!
   -👨🏻‍🎓 Computer Science student from Universidade Federal Fluminense<br>
-  -📚 Currently learning React & Django<br>
+  -📚 Currently learning React & Node.js<br>
   -🐍 Python Lover
   <br>
   <br>
