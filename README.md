@@ -1,7 +1,8 @@
 ### Hi there, welcome!
   -👨🏻‍🎓 Computer Science student from Universidade Federal Fluminense<br>
-  -📚 Currently learning React & Node.js<br>
-  -🐍 Python Lover
+  -🤓 Currently learning React & Node.js<br>
+  -📚 Javascript Lover<br>
+  -🐍 Python Enthusiast
   <br>
   <br>
 
