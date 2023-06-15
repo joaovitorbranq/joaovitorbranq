@@ -1,6 +1,6 @@
 ### Hi there, welcome!
   -👨🏻‍🎓 Computer Science student from Universidade Federal Fluminense<br>
-  -🤓 Currently learning Php & Node.js<br>
+  -🤓 Currently learning Php & starting a UI qualification with Figma <br>
   -🔭 Currently working with Typescript React.js and Django backend
   -📚 Javascript Lover<br>
   -🐍 Python Enthusiast
@@ -27,10 +27,11 @@
     <img align="center" alt="Branq-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Branq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Branq-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
+    <img align="center" alt="Branq-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <br>
     <h4 align="left" width="40">Loading...</h4>
-    <img align="center" alt="Branq-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Branq-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+    <img align="center" alt="Branq-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 </div>
 
 
