@@ -1,7 +1,7 @@
 ### Hi there, welcome!
   -👨🏻‍🎓 Computer Science student from Universidade Federal Fluminense<br>
   -🤓 Currently learning Php & starting a UI qualification with Figma <br>
-  -🔭 Currently working with Typescript React.js and Django backend
+  -🔭 Currently working with Typescript React.js and Django backend <br>
   -📚 Javascript Lover<br>
   -🐍 Python Enthusiast
   <br>
@@ -28,6 +28,7 @@
     <img align="center" alt="Branq-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Branq-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg">
     <img align="center" alt="Branq-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Branq-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <br>
     <h4 align="left" width="40">Loading...</h4>
     <img align="center" alt="Branq-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
