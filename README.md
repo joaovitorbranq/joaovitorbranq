@@ -1,6 +1,6 @@
 ### Hi there, welcome!
   -👨🏻‍🎓 Computer Science student from Universidade Federal Fluminense<br>
-  -🤓 Currently learning Php & starting a UI qualification with Figma <br>
+  <!-- -🤓 Currently learning Php & starting a UI qualification with Figma <br> -->
   -🔭 Currently working with Typescript React.js and Django backend <br>
   -📚 Javascript Lover<br>
   -🐍 Python Enthusiast
